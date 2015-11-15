@@ -1,0 +1,20 @@
+[
+	{
+		"username": "xyz",
+		"desc": "Running at USC gym",
+		"type": "type",
+		"city": "city",
+		"country":"country",
+		"landmark":"landmark",
+		"state": "state"
+	},
+	{
+		"username": "xyz",
+		"desc": "desc",
+		"type": "type",
+		"city": "city",
+		"country":"country",
+		"landmark":"landmark",
+		"state": "state"	
+	}
+]
